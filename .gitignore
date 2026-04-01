@@ -1,0 +1,17 @@
+# Arquivos de compilação do Arduino
+applet/
+build/
+out/
+
+# Arquivos locais e temporários
+*.local.txt
+*.pyc
+
+# Arquivos específicos de IDEs (se usar VS Code ou Eclipse)
+.vscode/
+.wireit/
+.pio/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
